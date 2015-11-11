@@ -7,7 +7,7 @@ class NewsController < ApplicationController
   end
 
   def index
-    render :layout => true
+
   end
 
 end
